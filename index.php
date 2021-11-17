@@ -29,7 +29,7 @@ window.hajime = 'true';
                     //plotBorderColor: '#606063'
                 },
 				title:{
-				  text: "https://dstat.null2019.repl.co/hit.php"
+				  text: "http://YOUR_IP_ADRESS/hit.php"
 				  },
 				xAxis: {
                     type: 'datetime',
@@ -39,7 +39,7 @@ window.hajime = 'true';
                 },
 				yAxis: {
 					title: {
-						text: 'リクエスト(秒)',
+						text: 'Request Per Second',
 						margin: 80
 					}
 				},
@@ -49,7 +49,7 @@ window.hajime = 'true';
                 series: [{
                     type: 'area',
 					//shadowSize: 0,
-                    name: '合計リクエスト',
+                    name: 'Total Requests',
 					color: '#ffa500',
                     data: []
                 }]

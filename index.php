@@ -29,7 +29,7 @@ window.hajime = 'true';
                     //plotBorderColor: '#606063'
                 },
 				title:{
-				  text: "http://YOUR_IP_ADRESS/hit.php"
+				  text: "http://YOUR_IP_ADRESS/dstat/hit.php"
 				  },
 				xAxis: {
                     type: 'datetime',

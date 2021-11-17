@@ -1,4 +1,4 @@
-# usage
+# Usage
 
 ```sh
 cd /var/www/html
@@ -14,6 +14,12 @@ nano index.php
 
 systemctl restart apache2 
 ```
+
+ Access `http://YOUR_IP_ADRESS/dstat/`
+ 
+ This is dstat page.
+ 
+ Please hit `http://YOUR_IP_ADRESS/dstat/hit.php`
 
 # Operating environment
 

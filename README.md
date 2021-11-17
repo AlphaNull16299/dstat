@@ -15,11 +15,11 @@ nano index.php
 systemctl restart apache2 
 ```
 
-Operating environment
+# Operating environment
 
-Ubuntu 18.04LTS
+・Ubuntu 18.04LTS
 
-Apache2
+・Apache2
 
-php7.2
+・php7.2
 
